@@ -1,0 +1,5 @@
+.idea/
+.env
+autoclicker.py
+messengerAutoReply.py
+session.json
